@@ -1,0 +1,98 @@
+[
+    {
+        "Months":"2024-04",
+        "Date":1713657600000,
+        "Transaction type":"Debit",
+        "Amount":"-475,625",
+        "Balance":"4,229,764",
+        "Balance_cleaned":4229764.0
+    },
+    {
+        "Months":"2024-05",
+        "Date":1716854400000,
+        "Transaction type":"Debit",
+        "Amount":"-129,176",
+        "Balance":"2,511,460",
+        "Balance_cleaned":2511460.0
+    },
+    {
+        "Months":"2024-06",
+        "Date":1719273600000,
+        "Transaction type":"Debit",
+        "Amount":"-358,951",
+        "Balance":"4,805,285",
+        "Balance_cleaned":4805285.0
+    },
+    {
+        "Months":"2024-07",
+        "Date":1721865600000,
+        "Transaction type":"Credit",
+        "Amount":"410,126",
+        "Balance":"2,791,161",
+        "Balance_cleaned":2791161.0
+    },
+    {
+        "Months":"2024-08",
+        "Date":1724803200000,
+        "Transaction type":"Debit",
+        "Amount":"-132,409",
+        "Balance":"2,325,378",
+        "Balance_cleaned":2325378.0
+    },
+    {
+        "Months":"2024-09",
+        "Date":1727481600000,
+        "Transaction type":"Debit",
+        "Amount":"-58,984",
+        "Balance":"3,281,521",
+        "Balance_cleaned":3281521.0
+    },
+    {
+        "Months":"2024-10",
+        "Date":1730160000000,
+        "Transaction type":"Credit",
+        "Amount":"65,591",
+        "Balance":"5,058,916",
+        "Balance_cleaned":5058916.0
+    },
+    {
+        "Months":"2024-11",
+        "Date":1731974400000,
+        "Transaction type":"Credit",
+        "Amount":"464,444",
+        "Balance":"3,727,401",
+        "Balance_cleaned":3727401.0
+    },
+    {
+        "Months":"2024-12",
+        "Date":1735257600000,
+        "Transaction type":"Debit",
+        "Amount":"-22,666",
+        "Balance":"3,280,086",
+        "Balance_cleaned":3280086.0
+    },
+    {
+        "Months":"2025-01",
+        "Date":1738281600000,
+        "Transaction type":"Debit",
+        "Amount":"-284,329",
+        "Balance":"4,520,956",
+        "Balance_cleaned":4520956.0
+    },
+    {
+        "Months":"2025-02",
+        "Date":1740528000000,
+        "Transaction type":"Debit",
+        "Amount":"-442,315",
+        "Balance":"3,646,014",
+        "Balance_cleaned":3646014.0
+    },
+    {
+        "Months":"2025-03",
+        "Date":1743379200000,
+        "Transaction type":"Debit",
+        "Amount":"-453,852",
+        "Balance":"1,838,107",
+        "Balance_cleaned":1838107.0
+    }
+]
